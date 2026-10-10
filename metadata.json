@@ -1,0 +1,6 @@
+{
+  "name": "Power Electronics Circuit Simulator",
+  "description": "Interactive rectifier and power electronics waveform simulator featuring 1-phase and 3-phase diode and thyristor circuits with animated schematics and dual-trace oscilloscope.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
